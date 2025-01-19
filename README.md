@@ -24,12 +24,9 @@
     <td>
       <h1>💫 About Me:</h1>
       <ul>
-        <li>🔭 I’m currently working on AI-powered Resume Maker</li>
-        <li>🌱 I’m currently learning Spring-Boot</li>
-        <li>👯 I’m looking to collaborate on a CRUD app</li>
-        <li>👨‍💻 My portfolio: <a href="https://shashwatsingh.vercel.app/">shashwatsingh.vercel.app</a></li>
-        <li>💬 Ask me about React, JavaScript, Node.js, Express.js, MongoDB, Tailwind</li>
-        <li>📫 How to reach me: sshashwatssingh@gmail.com</li>
+        <li>🔭 I’m currently working on a blog chat app</li>
+        <li>💬 Ask me about React, JavaScript,Tailwind</li>
+        <li>📫 How to reach me: pradumansingh1508@gmail.com</li>
         <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li>
       </ul>
     </td>
