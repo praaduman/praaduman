@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFqMHVrNmFvNmowdGxjaHllNTNrM3hkM3F3NmQ2dm5hZjR1aTZmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" 
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V2dnJ6MXh2eXc2aXNweHEwczNlZDdndnMxbzd2N2o4bGVjdGxnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" 
            alt="Coding GIF" style="width: 300px; height: auto; border-radius: 10px;">
     </td>
   </tr>
