@@ -1,4 +1,4 @@
-<!-- Hey its Praduman-->
+<!-- Hey, it's Praduman -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -18,16 +18,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- About Me -->
-
 <table>
   <tr>
     <td>
       <h1>💫 About Me:</h1>
       <ul>
-        <li>🔭 I’m currently working on a blog chat app</li>
-        <li>💬 Ask me about React, JavaScript,Tailwind</li>
-        <li>📫 How to reach me: pradumansingh1508@gmail.com</li>
-        <li>⚡ Fun fact: I am passionate about finding the hidden patterns</li>
+        <li>🔭 I’m currently working on building production-grade React apps like a blog platform and real-time chat app.</li>
+        <li>👯 I’m looking to collaborate on innovative web projects, especially real-time apps or open-source tools.</li>
+        <li>🤝 I’m looking for help with optimizing React performance and mastering backend integrations.</li>
+        <li>🌱 I’m currently learning advanced React, TypeScript, and Node.js for full-stack development.</li>
+        <li>💬 Ask me about React, front-end development, or how to build scalable web apps.</li>
+        <li>⚡ Fun fact: I built a todo app so efficient that I use it to track my todos for building more todo apps! ✅📱</li>
       </ul>
     </td>
     <td>
@@ -37,10 +38,38 @@
   </tr>
 </table>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustbeshubh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradumann) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradumansingh1508@gmail.com)
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=praaduman&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=praaduman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=shhashwat&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=praaduman&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
