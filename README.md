@@ -40,6 +40,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+<!-- Quote Section -->
+<div align="center">
+  <blockquote style="font-size: 20px; font-style: italic; color: #555; max-width: 80%; margin: 20px auto;">
+    “If you don't innovate fast, disrupt your industry, disrupt yourself, you'll be left behind.”  
+    <br>— John Chambers, CEO of Cisco
+  </blockquote>
+</div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustbeshubh) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradumann) 
