@@ -67,9 +67,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=praaduman&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=praaduman&theme=midnight-purple&hide_border=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praaduman&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=praaduman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
